@@ -26,7 +26,6 @@
 | 🎓 **Course Recommendations** | Recommends curated online courses and certificates with direct links |
 | 📊 **Resume Score** | Scores the resume (0–100) based on the presence of key sections like Objective, Projects, Achievements, etc. |
 | ✍️ **Resume Writing Tips** | Provides actionable, section-by-section improvement advice |
-| 🎬 **Bonus Video Resources** | Embeds curated YouTube videos for resume writing and interview preparation |
 | 🔐 **Admin Dashboard** | Secure admin panel to view all user data, download CSV reports, and visualize analytics via Plotly pie charts |
 
 ---
@@ -146,7 +145,6 @@ http://localhost:8501
    - **Recommended courses** with direct enrollment links
    - A **Resume Score** based on completeness
    - Tips on improving each resume section
-   - Bonus YouTube videos for resume writing & interview prep
 
 ### 🔐 Admin Flow
 

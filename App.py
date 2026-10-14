@@ -378,24 +378,6 @@ def run():
                 #               str(recommended_skills), str(rec_course))
 
 
-                ## Resume writing video
-                st.header("**Bonus Video for Resume Writing Tips💡**")
-                resume_vid = random.choice(resume_videos)
-                # res_vid_title = fetch_yt_video(resume_vid)
-                res_vid_title="Resume Tips For Freshers | How To Write A Resume"
-                st.subheader("✅ **"+res_vid_title+"**")
-                # print(resume_vid,"kkkkk")
-                resume_vid="https://www.youtube.com/watch?v=HQqqQx5BCFY"
-                st.video(resume_vid)
-
-                # Interview Preparation Video
-                st.header("**Bonus Video for Interview👨‍💼 Tips💡**")
-                # interview_vid = random.choice(interview_videos)
-                # int_vid_title = fetch_yt_video(interview_vid)
-                int_vid_title="Modern Hire interview questions - and how to answer them!"
-                st.subheader("✅ **" + int_vid_title + "**")
-                interview_vid="https://www.youtube.com/watch?v=XCjosBT3Gy8"
-                st.video(interview_vid)
 
                 connection.commit()
             else:
