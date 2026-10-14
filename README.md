@@ -157,17 +157,6 @@ http://localhost:8501
    - CSV download of all records
    - Pie charts for predicted fields and experience levels
 
----
-
-## 📷 Screenshots
-
-### User Side
-
-<img src="sc1.png" alt="User Side Screenshot" width="800"/>
-
-### Admin Side
-
-<img src="sc2.png" alt="Admin Side Screenshot" width="800"/>
 
 ---
 
